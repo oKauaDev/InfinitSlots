@@ -1,6 +1,6 @@
-Tenha slots infinitos em seu servidor!
+Get infinite slots on your server!
 
- # Instruções básicas
-- Adicione um limite grande de usuários pois os slots são apenas visuais.
+ # Basic instructions
+- Add a large user limit as slots are visual only.
  # Poggit status
 [![](https://poggit.pmmp.io/shield.state/InfinitSlots)](https://poggit.pmmp.io/p/InfinitSlots)
