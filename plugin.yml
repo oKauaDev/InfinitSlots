@@ -2,6 +2,6 @@
 name: InfinitSlots
 version: 1.0.0
 main: LadinoXx\InfinitSlots\Main
-api: 4.6.0
+api: 4.0.0
 src-namespace-prefix: LadinoXx\InfinitSlots
 ...
